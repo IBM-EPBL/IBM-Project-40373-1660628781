@@ -1,0 +1,3 @@
+#Train the model
+
+model.fit_generator (x_train, samples_per_epoch 8000, epochs-25.validation_data x_test,nb_val_samples-2000)
