@@ -1,0 +1,5 @@
+#Adding Dense layer
+
+model.add(Dense (300, activation=' relu'))
+
+model.add(Dense (150, activation= 'relu'))
