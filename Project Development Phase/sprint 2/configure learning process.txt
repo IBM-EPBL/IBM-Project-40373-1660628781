@@ -1,0 +1,5 @@
+#Configure the Learning process
+
+model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['ac
+
+curacy'])
